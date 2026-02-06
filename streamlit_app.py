@@ -14,7 +14,14 @@ from utils.ner import ContractNER
 from utils.risk_detection import RiskDetectionEngine
 from utils.contract_classifier import ContractClassifier
 from utils.clause_explainer import ClauseExplainer
-from utils.pdf_report import PDFReportGenerator
+
+# Safe import for PDF report (may fail if numpy unavailable)
+try:
+    from utils.pdf_report import PDFReportGenerator
+    PDF_AVAILABLE = True
+except Exception as e:
+    PDF_AVAILABLE = False
+    st.warning(f"PDF export unavailable: {str(e)}")
 
 
 def initialize_session_state():
@@ -293,7 +300,7 @@ def main():
                 
                 # Generate PDF report
                 with col2:
-                    if st.button("📄 Generate PDF Report"):
+                    if PDF_AVAILABLE and st.button("📄 Generate PDF Report"):
                         pdf_generator = PDFReportGenerator()
                         st.session_state.analysis_results["filename"] = uploaded_file.name
                         pdf_bytes = pdf_generator.generate_report(st.session_state.analysis_results)
@@ -303,6 +310,8 @@ def main():
                             file_name=f"{uploaded_file.name}_report.pdf",
                             mime="application/pdf"
                         )
+                    elif not PDF_AVAILABLE:
+                        st.info("📄 PDF export not available in this environment")
     
     elif action == "View Audit Logs":
         st.header("Audit Logs")
