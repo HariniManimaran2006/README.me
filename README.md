@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contract Auditor
 
 An AI-powered Streamlit application for analyzing contracts, extracting key information, detecting risks, and generating comprehensive reports.
@@ -253,3 +254,6 @@ For issues, questions, or feature requests, please open an issue or contact the 
 ---
 
 **Note**: This tool provides informational analysis only. Always consult with legal counsel before signing any contract. Analysis results are not a substitute for professional legal advice.
+=======
+# README.me
+>>>>>>> 613c1b0ead140eaeef47abc9f8cdb1423a80f848
