@@ -1,0 +1,77 @@
+EMPLOYMENT AGREEMENT
+
+1. PARTIES AND EFFECTIVE DATE
+
+This Employment Agreement (the "Agreement") is entered into effective January 1, 2024, by and between Acme Corp, a corporation organized under the laws of Delaware ("Employer"), and John Doe, an individual ("Employee").
+
+2. TERM OF EMPLOYMENT
+
+2.1 Term. The term of this Agreement shall commence on January 1, 2024 and continue for a period of twenty-four (24) months, unless earlier terminated pursuant to Section 4 below.
+
+2.2 Renewal. This Agreement may be renewed upon mutual written consent of both parties.
+
+3. COMPENSATION AND BENEFITS
+
+3.1 Base Salary. Employee shall receive an annual salary of Eighty Thousand Dollars ($80,000.00), payable in accordance with Employer's standard payroll practices.
+
+3.2 Bonus. Employee shall be eligible to receive an annual performance bonus of up to 20% of base salary, subject to achievement of performance metrics as determined by Employer.
+
+3.3 Benefits. Employee shall be entitled to all standard benefits including health insurance, 401(k) participation, and paid time off as per Company policy.
+
+4. TERMINATION
+
+4.1 Termination for Cause. Employer may terminate this Agreement for Cause (as defined below) upon five (5) days' written notice. "Cause" means: (a) material breach of this Agreement; (b) gross negligence or willful misconduct; (c) conviction of a felony; or (d) unauthorized absence exceeding three (3) consecutive business days.
+
+4.2 Termination Without Cause. Employer may terminate this Agreement without Cause upon thirty (30) days' written notice. Employee shall receive severance pay equal to three (3) months' base salary.
+
+4.3 Resignation. Employee may resign at any time upon thirty (30) days' written notice.
+
+5. CONFIDENTIALITY AND NON-DISCLOSURE
+
+5.1 Confidential Information. Employee acknowledges that during employment, Employee will have access to Confidential Information, including trade secrets, proprietary processes, client lists, and financial information.
+
+5.2 Obligation. Employee agrees to maintain in strict confidence all Confidential Information and shall not disclose such information to any third party without prior written consent of Employer.
+
+5.3 Post-Employment. The confidentiality obligation shall survive termination of employment for a period of three (3) years.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 Assignment. All inventions, works, discoveries, and improvements created by Employee during the term of employment shall be the exclusive property of Employer.
+
+6.2 Work Made for Hire. All such creations shall be considered "works made for hire" under applicable law.
+
+7. NON-COMPETITION AND NON-SOLICITATION
+
+7.1 Non-Competition. During the term of employment and for a period of twelve (12) months following termination, Employee shall not engage in any business that directly competes with Employer's business within a 50-mile radius of Employer's principal place of business.
+
+7.2 Non-Solicitation. Employee shall not solicit Employer's clients or employees for a period of twelve (12) months following termination.
+
+8. DISPUTE RESOLUTION
+
+8.1 Arbitration. Any dispute arising from this Agreement shall be resolved through binding arbitration in accordance with the American Arbitration Association rules.
+
+8.2 Venue. The arbitration shall take place in New York County, New York.
+
+9. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions.
+
+10. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and agreements.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EMPLOYER:
+Acme Corp
+
+By: _________________________
+Name: Jane Smith
+Title: CEO
+Date: January 1, 2024
+
+EMPLOYEE:
+
+_________________________
+John Doe
+Date: January 1, 2024
